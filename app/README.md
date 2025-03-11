@@ -12,6 +12,8 @@ You'll probably create a new account each time. Can we reload an existing Supaba
 [Earthscape](https://model.earth/earthscape/) is a fork of [Chatbot UI](https://github.com/mckaywrigley/chatbot-ui) by [Nick Wrigley](https://twitter.com/mckaywrigley).  
 Install documented by our [Model.earth Team](/projects)
 
+**Commit Error: .husky/pre-commit: line 5** - You can comment-out lines in the .husky/pre-commit file to deploy a change using GitHub Desktop.
+
 ---
 
 <h1 style="font-size:24px;">Quick Install</h1>
@@ -149,7 +151,7 @@ Next, we'll add [steps for deploying NextJS to Github](https://www.freecodecamp.
 
 We will also document how to sync from Github to a site hosted with our [Cloudflare&nbsp;Setup](https://model.earth/localsite/start/cloudflare/).
 
-NextJS provides an api layer powered by Express that allows you to build an Express app inside of your NextJS app. You can simply delete the API folder from the pages folder and no backend code will be present. [YouTube](https://youtu.be/PN1HgvAOmi8) video about rendering patterns.
+NextJS provides an api layer powered by Express that allows you to build an Express app inside of your NextJS app. You can simply delete the API folder from the pages folder and no backend code will be present. [YouTube](https://youtu.be/PN1HgvAOmi8) video about rendering patterns..
 
 <!--
 ## The Free Energy Principle
