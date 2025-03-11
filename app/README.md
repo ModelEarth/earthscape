@@ -12,7 +12,7 @@ You'll probably create a new account each time. Can we reload an existing Supaba
 [Earthscape](https://model.earth/earthscape/) is a fork of [Chatbot UI](https://github.com/mckaywrigley/chatbot-ui) by [Nick Wrigley](https://twitter.com/mckaywrigley).  
 Install documented by our [Model.earth Team](/projects)
 
-**Commit Error: .husky/pre-commit: line 5** - You can comment-out lines in the .husky/pre-commit file to deploy a change using GitHub Desktop.
+**Commit Error: .husky/pre-commit: line 5** - To deploy a change using GitHub Desktop, you can comment-out line 5 locally in the .husky/pre-commit file.
 
 ---
 
