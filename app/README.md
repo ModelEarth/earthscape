@@ -149,6 +149,8 @@ Next, we'll add [steps for deploying NextJS to Github](https://www.freecodecamp.
 
 We will also document how to sync from Github to a site hosted with our [Cloudflare&nbsp;Setup](https://model.earth/localsite/start/cloudflare/).
 
+NextJS provides an api layer powered by Express that allows you to build an Express app inside of your NextJS app. You can simply delete the API folder from the pages folder and no backend code will be present. [YouTube](https://youtu.be/PN1HgvAOmi8) video about rendering patterns.
+
 <!--
 ## The Free Energy Principle
 
